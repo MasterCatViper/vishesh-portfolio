@@ -65,6 +65,23 @@ function Experience() {
             Solved Complex Problems during ASE Program and Learned various Technologies such as ReactJS,NodeJS,SQL etc.
           </p>
         </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="Feb 2023 and Apr 2024"
+          iconStyle={{ background: "#e9d35b", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Selected as Specialist Programmer in Infosys (Joining Date - 13 February 2023 and 29 April 2024)
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">
+            Mysore, Karnataka
+          </h4>
+          <p>
+            Solved Complex Coding Problems(Dynamic Programming,Greedy Algorithms etc.) during Online Assessment and Interview. 
+          </p>
+          <p> Didn't Join due some personal Reasons.</p>
+        </VerticalTimelineElement>
       </VerticalTimeline>
     </div>
   );
